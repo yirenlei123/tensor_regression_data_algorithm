@@ -6,3 +6,7 @@ https://github.com/saraansh1999/Attribute-and-Simile-Classifiers-for-Face-Verifi
 
 别人的重现上述分类器的链接，可能有帮助：
 https://github.com/t5pathak/Face_Verification
+
+2.0版本   加入了一个图片集是按照结果中的顺序来的，共5000多张图片，
+新文件包括，图片集和对应名字文件
+由崔洪华整理
