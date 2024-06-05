@@ -3,7 +3,7 @@
 下面提供了一些替代数据：也即是有文章使用过的数据，而不是一些自己随便找的数据（可能这样的数据人家不太会接受吧），最好数据是“经典”一点的数据吧。
 
 
-交通预测数据（我用的）：链接：https://archive.ics.uci.edu/dataset/608/traffic+flow+forecasting
+交通预测数据：链接：https://archive.ics.uci.edu/dataset/608/traffic+flow+forecasting
 属于时空数据，来源文章中还有另外两个时空数据可用。
 另外：这个网站是严茜师姐告诉我的，里面有大量机器学习的数据。
 
